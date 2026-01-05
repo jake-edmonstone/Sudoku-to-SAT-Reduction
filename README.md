@@ -59,4 +59,3 @@ variable assignments ending with `0`. If the solver returns `UNSAT`, there is no
 - `Makefile` — build rules for all executables.
 - `puzzle.txt`, `puzzles.txt`, `hardpuzzles.txt` — sample Sudoku inputs.
 - `report.pdf` — performance report comparing encodings.
-- `MiniProject.pdf` — original assignment specification.
