@@ -1,7 +1,7 @@
 # Sudoku to SAT Reduction
 
 Translate 9x9 Sudoku puzzles to SAT (DIMACS CNF) and decode SAT solver assignments back into solved grids.
-The project includes both minimal and extended encodings as described in [This Paper](https://sat.inesc-id.pt/~ines/publications/aimath06.pdf).
+The project includes both minimal and extended encodings as described in [this paper](https://sat.inesc-id.pt/~ines/publications/aimath06.pdf).
 
 ## Build
 ```bash
